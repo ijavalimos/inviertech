@@ -13,3 +13,5 @@ st.title("Investment Coaching App")
 
 st.write("Welcome to the Investment Coaching App!")
 
+components.iframe("aiudaainverir.my.canva.site")
+
